@@ -1,5 +1,5 @@
 package = "cegoe"
-version = "master-0"
+version = "1.1-0"
 supported_platforms = {"linux", "macosx"}
 
 source = {
