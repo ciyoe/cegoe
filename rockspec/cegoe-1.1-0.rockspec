@@ -4,7 +4,7 @@ supported_platforms = {"linux", "macosx"}
 
 source = {
     url = "git://github.com/ciyoe/cegoe",
-    branch = "master",
+    branch = "v1.1",
 }
 
 description = {
